@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 09 22:35:28 CET 2026
+file\:///${project.parent.basedir}/local-maven-repo/.error=
+file\:///${project.parent.basedir}/local-maven-repo/.lastUpdated=1767994528899
+file\:///C\:\\Coding\\JavaRush\\3\\test\\project-front\\project-maven/lib/.error=
+file\:///C\:\\Coding\\JavaRush\\3\\test\\project-front\\project-maven/lib/.lastUpdated=1767994182309
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1767990935490
